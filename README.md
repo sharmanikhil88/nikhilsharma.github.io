@@ -64,6 +64,6 @@ MIT License
 
 ## Contact
 
-Your Name - your.email@example.com
+Nikhil Sharma 
 
-Live Demo: [yourportfolio.com](https://yourportfolio.com)
+Live Demo: [yourportfolio.com](https://nikhilsharmagithubio.netlify.app/)
